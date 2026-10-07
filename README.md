@@ -36,7 +36,7 @@ Se trabajó con tablas, metadatos, hojas de estilo externas, selectores CSS, hip
 - CSS3
 - PHP
 - Visual Studio Code
-- Google Chrome
+- WampServer
 - Servidor web con soporte para PHP
 
 🧪 Desarrollo del laboratorio
