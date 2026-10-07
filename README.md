@@ -106,7 +106,7 @@ Archivo: Validaciones.html
 ### Resultado
 <img width="749" height="271" alt="Validaciones" src="https://github.com/user-attachments/assets/ae30ab5c-c9cb-4bc1-97e5-7b14837b69b9" />
 
-🎨 Selectores CSS utilizados
+## 🎨 Selectores CSS utilizados
 Durante el laboratorio se trabajó con diferentes formas de seleccionar elementos mediante CSS. Entre ellas se encuentran:
 - Selectores de etiqueta.
 - Selectores de clase, por ejemplo .card-seccion.
@@ -115,17 +115,17 @@ Durante el laboratorio se trabajó con diferentes formas de seleccionar elemento
 - Pseudoclases como :hover, :valid e :invalid.
 Estos selectores permiten aplicar estilos a elementos específicos sin modificar directamente la estructura del documento HTML.
 
-▶️ Ejecución del proyecto
+## ▶️ Ejecución del proyecto
 Los archivos .html pueden abrirse desde un navegador web o mediante un servidor web.
 Para ejecutar correctamente el archivo Secciones.php es necesario utilizar un servidor que tenga soporte para PHP.
 También es importante mantener las carpetas Css e img con los mismos nombres utilizados dentro del código para que las hojas de estilo, el favicon y las imágenes puedan cargarse correctamente.
 
-📚 Referencias
+## 📚 Referencias
 - Material proporcionado para el Laboratorio #2: HTML5 y CSS3.
 - MDN Web Docs - HTML.
 - MDN Web Docs - CSS.
 
-👤 Información del estudiante
+## 👤 Información del estudiante
 Nombre: Andres Dommar
 Asignatura: Desarrollo Web
 Universidad: Universidad Tecnológica de Panamá
