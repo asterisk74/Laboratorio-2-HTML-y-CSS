@@ -39,8 +39,10 @@ Se trabajó con tablas, metadatos, hojas de estilo externas, selectores CSS, hip
 - WampServer
 - Servidor web con soporte para PHP
 
-🧪 Desarrollo del laboratorio
-Ejercicio 1 - Tabla de gastos de viaje
+## 🧪 Desarrollo del laboratorio
+
+### Ejercicio 1 - Tabla de gastos de viaje
+
 En este ejercicio se creó una tabla para representar un informe de gastos de viaje. La información se organizó utilizando filas, encabezados y celdas para mostrar los gastos de comida, hotel, transporte y subtotales correspondientes a Buenos Aires y Córdoba.
 También se agregaron diferentes metadatos dentro de la etiqueta <head>, incluyendo descripción, palabras clave, autor, configuración para robots y un favicon.
 Archivo: Tabla1.html
@@ -48,7 +50,8 @@ Archivo: Tabla1.html
 ### Resultado
 <img width="705" height="432" alt="Tabla1" src="https://github.com/user-attachments/assets/9a63366d-93e6-4e16-b860-1e200cc284f1" />
 
-Ejercicio 2 - Tabla con estilos CSS
+### Ejercicio 2 - Tabla con estilos CSS
+
 En este ejercicio se creó una segunda tabla para mostrar información sobre la fecha, unidades vendidas, precio por unidad e ITBMS.
 Para modificar su presentación se utilizó una hoja de estilos externa llamada EstlTbls.css. En ella se definieron estilos para la tabla, sus encabezados y las clases modo1 y modo2, permitiendo modificar propiedades como la fuente, tamaño, alineación, bordes, fondo y color del texto.
 Archivos: Tabla2.html y Css/EstlTbls.css
@@ -56,7 +59,8 @@ Archivos: Tabla2.html y Css/EstlTbls.css
 ### Resultado
 <img width="937" height="235" alt="Tabla2" src="https://github.com/user-attachments/assets/4d01c9a2-144a-44ea-97c3-d1c228d1b0f2" />
 
-Ejercicio 3 - Selectores en párrafos
+### Ejercicio 3 - Selectores en párrafos
+
 En este ejercicio se trabajó con un párrafo que contiene elementos <strong> dentro de su contenido.
 Mediante la hoja de estilos EstlParrafos.css se utilizó el selector descendiente p strong para aplicar estilos únicamente a los elementos <strong> que se encuentran dentro de un párrafo.
 Archivos: Parrafos.html y Css/EstlParrafos.css
@@ -64,7 +68,8 @@ Archivos: Parrafos.html y Css/EstlParrafos.css
 ### Resultado
 <img width="890" height="176" alt="Parrafos" src="https://github.com/user-attachments/assets/8e944022-109e-4573-9010-33924270bf29" />
 
-Ejercicio 4 - Navegación web con clases e ID
+### Ejercicio 4 - Navegación web con clases e ID
+
 En este ejercicio se creó una sección que contiene un hipervínculo hacia una página externa relacionada con PHP.
 Se utilizaron clases CSS como .card-seccion y .link-externo para modificar la apariencia de la sección y del enlace. También se utilizó el identificador #footer-recurso para aplicar estilos específicos al pie de la sección.
 El enlace utiliza los atributos target="_blank" y rel="noopener" para abrir el recurso externo en una nueva pestaña.
@@ -73,7 +78,8 @@ Archivo: Ejmpl.html
 ### Resultado
 <img width="2555" height="582" alt="Ejmpl" src="https://github.com/user-attachments/assets/9f0f22e9-1bbb-4b76-b253-81449ff78646" />
 
-Ejercicio 5 - Secciones semánticas de HTML5
+### Ejercicio 5 - Secciones semánticas de HTML5
+
 En este ejercicio se desarrolló una página utilizando diferentes etiquetas semánticas de HTML5 para organizar correctamente el contenido.
 Entre las etiquetas utilizadas se encuentran:
 - <header>
@@ -90,7 +96,8 @@ Archivo: Secciones.php
 ### Resultado
 <img width="2559" height="1542" alt="Secciones" src="https://github.com/user-attachments/assets/10115f85-3c26-4e88-a9d3-6951a25d48dd" />
 
-Ejercicio 6 - Validaciones de formulario
+### Ejercicio 6 - Validaciones de formulario
+
 En este ejercicio se utilizó un campo de tipo email con el atributo required para comprobar las validaciones proporcionadas por HTML5.
 También se aplicaron los selectores CSS input:required:invalid e input:required:valid para modificar el borde del campo dependiendo de si la información introducida cumple o no con el formato solicitado.
 Cuando se introduce una dirección de correo inválida, el navegador muestra automáticamente un mensaje indicando el error.
