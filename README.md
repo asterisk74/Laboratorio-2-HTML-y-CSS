@@ -2,9 +2,6 @@
 # Universidad Tecnológica de Panamá
 
 ## Facultad de Ingeniería en Sistemas
-
-# Laboratorio #2: HTML5 y CSS
-
 ---
 
 ## 📌 Descripción
@@ -80,6 +77,7 @@ Archivo: Ejmpl.html
 
 En este ejercicio se desarrolló una página utilizando diferentes etiquetas semánticas de HTML5 para organizar correctamente el contenido.
 Entre las etiquetas utilizadas se encuentran:
+
 - `<header>`
 - `<nav>`
 - `<main>`
@@ -87,6 +85,7 @@ Entre las etiquetas utilizadas se encuentran:
 - `<article>`
 - `<aside>`
 - `<footer>`
+
 La página contiene una cabecera, un menú de navegación, una sección de cursos, artículos independientes, información complementaria y un pie de página.
 En el pie de página también se utilizó PHP para mostrar automáticamente el año actual.
 Archivo: Secciones.php
