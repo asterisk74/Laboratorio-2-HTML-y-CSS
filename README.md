@@ -6,7 +6,7 @@
 
 ## 📌 Descripción
 
-Durante el desarrollo de este laboratorio se realizaron diferentes ejercicios utilizando HTML5, CSS3 y PHP, con el propósito de practicar la estructura y presentación de páginas web.
+Durante el desarrollo de este laboratorio se realizaron diferentes ejercicios utilizando HTML5, CSS y PHP, con el propósito de practicar la estructura y presentación de páginas web.
 
 Se trabajó con tablas, metadatos, hojas de estilo externas, selectores CSS, hipervínculos, etiquetas semánticas y validaciones de formularios. Cada uno de los ejercicios fue probado en el navegador para comprobar su funcionamiento y observar el resultado de los estilos aplicados.
 
