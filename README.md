@@ -124,6 +124,9 @@ También es importante mantener las carpetas Css e img con los mismos nombres ut
 
 ## 👤 Información del estudiante
 Nombre: Andres Dommar
+
 Asignatura: Desarrollo Web
+
 Universidad: Universidad Tecnológica de Panamá
+
 Instructor:	Ing. Irina Fong
